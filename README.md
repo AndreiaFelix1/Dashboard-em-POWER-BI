@@ -2,6 +2,10 @@
 
 Este projeto é um dashboard interativo criado no Power BI para análise de desempenho de vendas em uma rede de lojas.
 
+## 📸 Visual do Dashboard
+
+![Dashboard de Vendas](Dashboard de gestão de venda.png)
+
 ## 🔎 Objetivos
 
 - Acompanhar faturamento por loja, produto e período
