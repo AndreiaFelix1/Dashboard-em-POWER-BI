@@ -4,7 +4,7 @@ Este projeto é um dashboard interativo criado no Power BI para análise de dese
 
 ## 📸 Visual do Dashboard
 
-![Dashboard de Vendas](Dashboard de gestão de venda.png)
+![Dashboard de Vendas](Dashboard-gestao-venda.png)
 
 ## 🔎 Objetivos
 
